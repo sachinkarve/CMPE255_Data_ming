@@ -7,3 +7,9 @@ https://www.kaggle.com/sobhanmoosavi/us-accidents
 * Ruchir Agarwal
 * Shivani Jain
 * Sachin Karve
+
+## Usage - Running Jupyter notebook
+
+Launch with:
+
+    $ jupyter notebook
